@@ -1,4 +1,3 @@
-
 [中文](README_ZH.md) | EN
 
 **MurphySec CLI** is used for detecting vulnerable dependencies from the command-line, and also can be integrated into your CI/CD pipeline.
@@ -10,7 +9,8 @@
   </a>
   <a href="https://github.com/murphysecurity/murphysec">
     <img src="https://badgen.net/badge/Github/murphysecurity/21D789?icon=github">
-  </a>
+  </a><a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fqinyljul%2Fmurphysec?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fqinyljul%2Fmurphysec.svg?type=shield"/></a>
+
 
 <img src="https://img.shields.io/github/go-mod/go-version/murphysecurity/murphysec.svg?style=flat-square">
   <a href="https://github.com/murphysecurity/murphysec/blob/master/LICENSE">
@@ -19,6 +19,9 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/murphysecurity/murphysec?style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/murphysecurity/murphysec?style=social">
   </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fqinyljul%2Fmurphysec.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fqinyljul%2Fmurphysec?ref=badge_large)
 
 ## Features
 1. Analyze dependencies being used by your project, including direct and indirect dependencies
